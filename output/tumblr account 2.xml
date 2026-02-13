@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+ xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>tumblr account 2</title>
+<link>https://example.com/</link>
+<description>Generated feed</description>
+
+            <item>
+              <title>Tactical Weapons — InterProInvest (IPI) - IPI VULKAN...</title>
+              <link>https://tactical-weapons.tumblr.com/post/808123843340288000/</link>
+              <guid>https://tactical-weapons.tumblr.com/post/808123843340288000/</guid>
+              <pubDate>Fri, 13 Feb 2026 12:45:34 -0000</pubDate>
+              <media:content url="https://64.media.tumblr.com/28931377d8a2dec9f0f5689fcde1d565/ad8af04d11e4815e-61/s1280x1920/750757b4b7e0d0965ebdf9308ee1c051fad29597.jpg" medium="image" />
+            </item>
+            
+            <item>
+              <title>Tactical Weapons — FN® Firearms - FN SCAR®...</title>
+              <link>https://tactical-weapons.tumblr.com/post/807724943549825024/</link>
+              <guid>https://tactical-weapons.tumblr.com/post/807724943549825024/</guid>
+              <pubDate>Fri, 13 Feb 2026 12:45:35 -0000</pubDate>
+              <media:content url="https://64.media.tumblr.com/27a7d2d176f0b2cff10b4547d4aafdfb/2d21280ee9e8baa2-e0/s1280x1920/a7932892be8ea7c6054d0505086a341103d26e82.jpg" medium="image" />
+            </item>
+            
+</channel>
+</rss>
